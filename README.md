@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Alejandro! 
 
-<!--
-**Amarquez1-cloud/Amarquez1-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📚 About Me
+- 🎓 **Major:** Business Management Information Systems (MIS) Student
+- 🚀 **Current Focus:** I am brand new to the tech space and currently taking Cisco's **Data Essentials** course.
+- 🌱 **What I'm Learning:** Discovering how data works, understanding network fundamentals, and learning how to use GitHub!
+- 💼 **My Goal:** To learn how technology and business work together to solve real-world problems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🗺️ My Learning Roadmap
+- [x] Create a GitHub account
+- [ ] Understand the basics of data and databases
+- [ ] Build my very first project repository
+- [ ] Learn how data helps businesses make decisions
+
+---
+
+### 📊 My GitHub Activity
+![Amarquez1-cloud's GitHub Stats](https://vercel.app)
+
+---
+
+
+
